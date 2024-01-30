@@ -1,4 +1,4 @@
-Day 2 - Assessing a MLR Model
+Day 3 - Assessing a MLR Model
 ================
 
 In this repository/directory you should see two items:
